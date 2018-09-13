@@ -18,6 +18,9 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="simpleConsoleTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -25,6 +28,9 @@
     </ClCompile>
     <ClCompile Include="SimpleConsole001.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simpleConsoleTools.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
